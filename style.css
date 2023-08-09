@@ -1,0 +1,13 @@
+body{
+    max-width: 850px;
+    margin: auto;
+    font-family: cursive;
+}
+
+
+h1{color: rgb(212, 70, 4) ;margin: 5px;; background-color:rgb(255, 251, 0) ;padding: 10px;;}
+h2{color: red; margin-left: 6px;}
+h4{color: orangered;}
+p{color:gold; margin-left: 6px;}
+
+.centralizar{text-align: center;}
