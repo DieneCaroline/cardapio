@@ -1,13 +1,45 @@
-body{
+body {
+    margin: auto;
+    background-color: ivory;
     max-width: 850px;
     margin: auto;
     font-family: cursive;
 }
 
 
-h1{color: rgb(212, 70, 4) ;margin: 5px;; background-color:rgb(255, 251, 0) ;padding: 10px;;}
-h2{color: red; margin-left: 6px;}
-h4{color: orangered;}
-p{color:gold; margin-left: 6px;}
+h1 {
+    color: rgb(212, 70, 4);
+    margin: 5px;
+    text-shadow: 3px;
+    color: #000;
+    ;
+    background-color: rgb(255, 251, 0);
+    padding: 10px;
+    ;
+    color: orangered;
+}
 
-.centralizar{text-align: center;}
+h2 {
+    background-color: rgb(255, 181, 132);
+    text: shadow 10px;    #000000;
+    text-transform: uppercase;
+    text-shadow: 2cm;
+    text-decoration-skip: ;
+    color: red;
+    margin-left: 6px;
+}
+
+h4 {
+    color: orangered;
+    class=centralizar
+}
+
+p {
+    color: gold;
+    margin-left: 6px;
+    .centralizar
+}
+
+.centralizar {
+    text-align: center;
+}
