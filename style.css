@@ -1,9 +1,10 @@
 body {
     margin: auto;
-    background-color: ivory;
+    background-color: antiquewhite;
     max-width: 850px;
     margin: auto;
     font-family: cursive;
+
 }
 
 
@@ -38,8 +39,5 @@ p {
     color: gold;
     margin-left: 6px;
     .centralizar
-}
-
-.centralizar {
     text-align: center;
 }
